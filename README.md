@@ -25,6 +25,9 @@ helm search repo hede
 helm repo remove yerel
 ```
 
+Başka bir helm chart reposunu ekleyip içinde bir paketi arayalım:
+![image](https://user-images.githubusercontent.com/261946/143967131-3e016b41-1310-4512-a73f-769d458e7315.png)
+
 ## Bağımlılık Kontrolü Yapıyoruz
 Bağımlılıklar, belirtildikleri adreslerde yoksa aşağıdaki gibi hata verir:
 
